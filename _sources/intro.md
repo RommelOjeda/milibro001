@@ -1,13 +1,12 @@
-# Welcome to your Jupyter Book
+# Bienvenidos a la página de Rommel Ojeda
 
-This is a small sample book to give you a feel for how book content is
-structured.
+Es una página demo usando la librería de Jupyter-book
 
 :::{note}
-Here is a note!
+Aquí hay una Nota!
 :::
 
-And here is a code block:
+Y aquí hay un bloque de código:
 
 ```
 e = mc^2
